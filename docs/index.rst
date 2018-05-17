@@ -19,7 +19,13 @@ The following is my project content:
 .. code-block:: python
     :linenos:
 
-    (content of code)
+    import tensorflow as tf
+    import numpy as np
+    
+    if __name__ == __main__:
+      sess = tf.Sesstion()
+      out = sess.run(np.random.zeros((4,5)))
+      print(out)
 
 .. _h711fe1c551223c7f5a441733682773:
 
