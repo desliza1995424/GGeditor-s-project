@@ -1,9 +1,8 @@
-My new project 
 
-.. doctree:: 
+.. toctree:: 
     :maxdepth: 2
 
-    User guide
+    user_guide
 
 The following is my project content:
 
