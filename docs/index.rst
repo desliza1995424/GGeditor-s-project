@@ -1,5 +1,10 @@
 My new project 
 
+.. doctree:: 
+    :maxdepth: 2
+
+    User guide
+
 The following is my project content:
 
 ..  Attention:: 
