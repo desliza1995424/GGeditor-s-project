@@ -10,6 +10,12 @@ The following is my project content:
     
     * revise the policy of blabla
 
+
+.. code-block:: python
+    :linenos:
+
+    (content of code)
+
 .. _h711fe1c551223c7f5a441733682773:
 
 Chapter 1
@@ -46,7 +52,7 @@ Chapter 2
 
 .. |LINK1| raw:: html
 
-    <a href="http://www.sphinx-doc.org/en/master/" target="_blank">url</a>
+    <a href="http://www.google.com" target="_blank">url</a>
 
 
 .. |IMG1| image:: static/My_new_project_1.png
