@@ -26,7 +26,7 @@ Chapter 1
 section 1
 =========
 
-	This paragraph simulates content in the section.
+	`This` |paragraph| ``simulates`` content in the section.
 
 	And this is \ |LINK1|\  
 
