@@ -31,6 +31,6 @@ Chapter 2
 
 .. bottom of content
 
-.. |IMG1| image:: static/User_guide_1.png
+.. |IMG1| image:: static/user_guide_1.png
    :height: 238 px
    :width: 601 px
