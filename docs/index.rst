@@ -56,6 +56,7 @@ Chapter 2
 |computer|scinece|
 +--------+-------+
 
+\ |IMG2|\ 
 
 .. bottom of content
 
@@ -68,3 +69,7 @@ Chapter 2
 .. |IMG1| image:: static/My_new_project_1.png
    :height: 177 px
    :width: 269 px
+
+.. |IMG2| image:: static/My_new_project_2.png
+   :height: 161 px
+   :width: 318 px
